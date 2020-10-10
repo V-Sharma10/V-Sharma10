@@ -50,4 +50,4 @@
 
 [website]: https://v-sharma10.github.io/Portfolio/
 [linkedin]: https://www.linkedin.com/in/viveksharma101
-[gmail] : mailto:vivek.dakshana17@gmail.com
+[gmail] : <mailto:vivek.dakshana17@gmail.com>
