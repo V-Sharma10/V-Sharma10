@@ -8,14 +8,14 @@
 - 👯 I’m looking for full-time/intern opportunities.
 - 🌱 Eager to try and learn new things.
 -  🥅Also to contribute more and more to Open Source projects.
-
-[<img align="left" alt="code" width="50px" src="https://doc-10-9k-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/ph85uu9tt77tmbp9kcmrv3dr1trq2stm/1602311250000/02666914312395933594/*/1g4nQpvcujsSFhPlWiRGJeBiiySsYe6QR" />][website]
+<br />
+![<img align="left" alt="code" width="50px" src="https://doc-10-9k-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/ph85uu9tt77tmbp9kcmrv3dr1trq2stm/1602311250000/02666914312395933594/*/1g4nQpvcujsSFhPlWiRGJeBiiySsYe6QR" />][website]
 
 ### Connect with me:
 
-[<img align="left" alt="V-Sharma10" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="V-Sharma | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="V-Sharma | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](<mailto:2017ugcs071@nitjsr.ac.in>)
+[<img align="left" alt="V-Sharma10" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="V-Sharma | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="V-Sharma | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](<mailto:2017ugcs071@nitjsr.ac.in>)
 
 <br />
 
