@@ -6,14 +6,15 @@
 ## I'm a Final Year Bachelor's degree student!!
 
 - 👯 I’m looking for full-time opportunities in different companies.
+- 🌱 Eager to try and learn new things. 🤣
 -  🥅Also 2020 Goals: Contribute more to Open Source projects
 
 
 
 ### Connect with me:
 
-[<img align="left" alt="V-Sharma10" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://v-sharma10.github.io/Portfolio/]
-[<img align="left" alt="V-Sharma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/viveksharma101]
+[<img align="left" alt="V-Sharma10" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="V-Sharma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -44,3 +45,7 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=V-Sharma10&show_icons=true&hide_border=false" />
 
 </details>
+
+
+[website]: https://v-sharma10.github.io/Portfolio/
+[linkedin]: https://www.linkedin.com/in/viveksharma101
