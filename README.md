@@ -6,8 +6,8 @@
 ## I'm a Final Year Bachelor's degree student!!
 
 - 👯 I’m looking for full-time opportunities in different companies.
-- 🌱 Eager to try and learn new things. 🤣
--  🥅Also 2020 Goals: Contribute more to Open Source projects
+- 🌱 Eager to try and learn new things.
+-  🥅Also to contribute more and more to Open Source projects.
 
 
 
