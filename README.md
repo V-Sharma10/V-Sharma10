@@ -15,7 +15,7 @@
 
 [<img align="left" alt="V-Sharma10" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="V-Sharma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="V-Sharma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](2017ugcs071@nitjsr.ac.in)[gmail]
+[<img align="left" alt="V-Sharma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](<mailto:2017ugcs071@nitjsr.ac.in>)
 
 <br />
 
@@ -50,4 +50,3 @@
 
 [website]: https://v-sharma10.github.io/Portfolio/
 [linkedin]: https://www.linkedin.com/in/viveksharma101
-[gmail] : <mailto:vivek.dakshana17@gmail.com>
