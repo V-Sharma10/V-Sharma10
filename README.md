@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=V-Sharma10.com&style=for-the-badge&url=https://v-sharma10.github.io/Portfolio/)](https://v-sharma10.github.io/Portfolio/)
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Final Year Bachelor's degree student!!
 
 - 👯 I’m looking for full-time opportunities in different companies.
 -  🥅Also 2020 Goals: Contribute more to Open Source projects
