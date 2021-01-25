@@ -5,7 +5,7 @@
 
 ## I'm a Final Year Bachelor's degree student!!
 
-- 👯 I’m looking for full-time/intern opportunities.
+- 👯 Currently a SDE intern at Meesho.
 - 🌱 Eager to try and learn new things.
 -  🥅Also to contribute more and more to Open Source projects.
 <br />
