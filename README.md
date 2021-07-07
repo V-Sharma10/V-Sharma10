@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=V-Sharma10.com&style=for-the-badge&url=https://v-sharma10.github.io/Portfolio/)](https://v-sharma10.github.io/Portfolio/)
 
 
-## I'm a Final Year Bachelor's degree student!!
+## I'm  Bachelor's degree holder from NIT Jamshedpur!!
 
-- 👯 Currently a SDE intern at Meesho.
+- 👯 Currently a SDE 1 at Meesho.
 - 🌱 Eager to try and learn new things.
 -  🥅Also to contribute more and more to Open Source projects.
 <br />
@@ -47,6 +47,4 @@
 
 </details>
 
-
-[website]: https://v-sharma10.github.io/Portfolio/
 [linkedin]: https://www.linkedin.com/in/viveksharma101
